@@ -26,7 +26,7 @@
 							      		<fieldset>
 							        		<div class="col-xs-12 col-md-12">
 							        			<div class="form-group">
-							        				<label class="control-label" for="Id_Eje">* Eje</label>
+							        				<label class="control-label" for="Id_Eje">* Actividad:</label>
 							        				<select name="Id_Eje" id="" class="form-control">
 							        					<option value="">Seleccionar</option>
 							        					@foreach($eje as $eje)
@@ -37,7 +37,7 @@
 							        		</div>
 							        		<div class="col-xs-12 col-md-12">
 							        			<div class="form-group">
-							        				<label class="control-label" for="Id_Tematica">* Componente </label>
+							        				<label class="control-label" for="Id_Tematica">* Sesión:</label>
 							        				<select name="Id_Tematica" id="" class="form-control">
 							        					<option value="">Seleccionar</option>¿
 							        				</select>
@@ -45,7 +45,7 @@
 							        		</div>
 							        		<div class="col-xs-12 col-md-12">
 							        			<div class="form-group">
-							        				<label class="control-label" for="d_Actividad">* Estrategia... </label>
+							        				<label class="control-label" for="d_Actividad">* Responsable(Profesor):</label>
 							        				<select name="d_Actividad" id="" class="form-control">
 							        					<option value="">Seleccionar</option>
 							        				</select>
