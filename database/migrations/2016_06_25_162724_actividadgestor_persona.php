@@ -16,7 +16,7 @@ class ActividadgestorPersona extends Migration
         Schema::create('actividadgestor_persona', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('persona_id')->unsigned();
-            $table->foreign('persona_id')->references('Id_Persona')->on('Persona');
+            //$table->foreign('persona_id')->references('Id_Persona')->on('Persona');
             $table->integer('actividad_gestor_id')->unsigned();
             $table->foreign('actividad_gestor_id')->references('Id_Actividad_Gestor')->on('actividad_gestor');
             $table->timestamps();

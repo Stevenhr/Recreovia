@@ -47,7 +47,7 @@
           <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/i18n/defaults-*.min.js"></script>-->
       @show
 
-      <title>Módulo Campaña Cultura Ciudadana</title>
+      <title>Módulo Recreovia</title>
   </head>
 
   <body>
@@ -83,7 +83,7 @@
               </li>
 
               <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">Programación<span class="caret"></span></a>
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">Gestor Territorial<span class="caret"></span></a>
                 <ul class="dropdown-menu" aria-labelledby="download">
                   <li><a href="#" style="color:#1995dc">CONFIGURACIÓN ACTIVIDADES</a></li>
                   <li class="divider"></li>
@@ -101,7 +101,7 @@
 
 
               <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">Aprobación<span class="caret"></span></a>
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">Profesor<span class="caret"></span></a>
                 <ul class="dropdown-menu" aria-labelledby="download">
                   <li><a href="#" style="color:#1995dc">APROBACIÓN Y MODIFICACIÓN</a></li>
                   <li class="divider"></li>
@@ -145,9 +145,9 @@
           <div class="page-header" id="banner">
             <div class="row">
               <div class="col-lg-8 col-md-7 col-sm-6">
-                <h1>MÓDULO CAMPAÑA CULTURA CIUDADANA 
+                <h1>MÓDULO RECREOVIA
                 </h1>
-                <p class="lead"><h1>Área de parques</h1></p>
+                <p class="lead"><h1>Área de recreación</h1></p>
               </div>
               <div class="col-lg-4 col-md-5 col-sm-6">
                  <div align="right"> 
