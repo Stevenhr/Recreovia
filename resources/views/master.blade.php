@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-
-
-
 <html lang="es">
   <head>
       <meta charset="utf-8">
@@ -145,8 +142,7 @@
           <div class="page-header" id="banner">
             <div class="row">
               <div class="col-lg-8 col-md-7 col-sm-6">
-                <h1>MÓDULO RECREOVIA
-                </h1>
+                <h1>MÓDULO RECREOVIA</h1>
                 <p class="lead"><h1>Área de recreación</h1></p>
               </div>
               <div class="col-lg-4 col-md-5 col-sm-6">
